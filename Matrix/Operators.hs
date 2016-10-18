@@ -20,6 +20,7 @@ module Matrix.Operators
 import qualified Matrix.Operations as Ops
 import qualified Matrix.Util as Util
 
+
 --- **Row Operators**
 
 ---- Swaps two rows and puts them in a tuple
