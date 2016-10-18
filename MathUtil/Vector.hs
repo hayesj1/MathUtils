@@ -1,5 +1,5 @@
 -- ***Vector***
-module Matrix.Vector
+module MathUtil.Vector
 ( 
 {- DataTypes -}
   Vector ()
@@ -20,8 +20,8 @@ module Matrix.Vector
 
 
 --- **Imports**
-import qualified Matrix.Util as Util
-import Matrix.LinkedList
+import qualified MathUtil.Util as Util
+import MathUtil.LinkedList
 
 
 --- **DataType Declarations**

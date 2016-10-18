@@ -1,5 +1,5 @@
--- ***Matrix Operators***
-module Matrix.Operators
+-- ***ListMatrix Operators***
+module MathUtil.Operators
 (
 {- Row Operators -}
   (<=>)
@@ -17,8 +17,8 @@ module Matrix.Operators
 
 
 --- **Imports**
-import qualified Matrix.Operations as Ops
-import qualified Matrix.Util as Util
+import qualified MathUtil.Operations as Ops
+import qualified MathUtil.Util as Util
 
 
 --- **Row Operators**

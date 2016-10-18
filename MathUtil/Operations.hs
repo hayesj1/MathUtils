@@ -1,5 +1,5 @@
--- ***Matrix Operations***
-module Matrix.Operations
+-- ***ListMatrix Operations***
+module MathUtil.Operations
 (
 {- Row Functions -}
   rSwap
@@ -23,7 +23,7 @@ module Matrix.Operations
 
 --- **Imports**
 import qualified Data.List as LST -- for transpose
-import qualified Matrix.Util as Util
+import qualified MathUtil.Util as Util
 
 
 --- **Row Functions**

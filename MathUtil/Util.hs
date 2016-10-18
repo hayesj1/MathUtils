@@ -1,5 +1,5 @@
 -- ***Utilities***
-module Matrix.Util
+module MathUtil.Util
 (
 {- Type Synomyms -}
   ListMatrix(..)

@@ -1,5 +1,5 @@
 -- ***Matrix***
-module Matrix.Matrix
+module MathUtil.Matrix
 ( 
 {- DataTypes -}
   Matrix ()
@@ -33,8 +33,8 @@ module Matrix.Matrix
 --- **Imports**
 import qualified Data.List as LST -- for transpose
 
-import qualified Matrix.Util as Util
-import Matrix.LinkedList
+import qualified MathUtil.Util as Util
+import MathUtil.LinkedList
 
 
 --- **Type Synomyms**

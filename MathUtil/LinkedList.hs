@@ -1,5 +1,5 @@
 -- ***LinkedList***
-module Matrix.LinkedList
+module MathUtil.LinkedList
 ( 
 {- DataTypes -}
   LinkedList(EmptyList, Node)
@@ -21,7 +21,7 @@ module Matrix.LinkedList
 , getNodeRec
 , isEmptyList
 , search
-, Matrix.LinkedList.concat
+, MathUtil.LinkedList.concat
 , len
 {- Operators -}
 , (.:)
